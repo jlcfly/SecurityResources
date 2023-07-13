@@ -37,7 +37,7 @@
 * [http://sqlmap.org/](http://sqlmap.org/)
 * [https://github.com/ossf/scorecard](https://github.com/ossf/scorecard)
 * [https://www.opensamm.org/explore/](https://www.opensamm.org/explore/)
-* [mitmproxy](https://mitmproxy.org/)
+* [[mitmproxy](https://mitmproxy.org/)](https://mitmproxy.org/)
 
 ## MSP
 * [https://cisomag.eccouncil.org/21-questions-managed-service-providers/](https://cisomag.eccouncil.org/21-questions-managed-service-providers/)
