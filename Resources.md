@@ -33,6 +33,7 @@
 * (💯) [https://application.security/free/owasp-top-10](https://application.security/free/owasp-top-10)
 
 ## Application Security Testing
+* (💯) [https://github.com/swisskyrepo/PayloadsAllTheThings]
 * [https://www.zaproxy.org/](https://www.zaproxy.org/)
 * [http://sqlmap.org/](http://sqlmap.org/)
 * [https://github.com/ossf/scorecard](https://github.com/ossf/scorecard)
